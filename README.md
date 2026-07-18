@@ -5,16 +5,16 @@
 <h3 align="center">Connecting Infrastructure & Optimizing AI with Precision ⚡</h3>
 
 <p align="center">
-  <em>Saya adalah seorang praktisi <b>IT Network & System Administration</b> yang memiliki semangat tinggi dalam membangun infrastruktur jaringan yang stabil (99.9% Uptime), aman, dan efisien. Di era transformasi AI, saya menggabungkan keahlian infrastruktur IT dengan <b>AI Prompt Engineering</b> untuk mengotomatisasi sistem berkinerja tinggi.</em>
+  <em>I am an <b>IT Network & System Administration</b> practitioner passionate about architecting resilient (99.9% Uptime), secure, and highly efficient network infrastructures. In this era of AI transformation, I bridge core IT infrastructure with <b>AI Prompt Engineering</b> to automate high-performance systems.</em>
 </p>
 
 ---
 
-### 🏆 Pencapaian Utama
-- 🥇 **Juara 1 LKS 2026** - Bidang IT Network System Administration (Kabupaten Purworejo)
-- 🚀 Spesialis dalam merancang prompt terstruktur (Chain-of-Thought) untuk otomatisasi pemecahan masalah jaringan.
+### 🏆 Key Achievements
+- 🥇 **1st Place LKS 2026** - IT Network System Administration (Purworejo Regency)
+- 🚀 Specialist in designing structured prompts (Chain-of-Thought) for automated network troubleshooting and diagnostics.
 
-### 🛠️ Keahlian & Teknologi
+### 🛠️ Skills & Technologies
 
 **Network Administration** <br>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
@@ -41,12 +41,12 @@
 
 ---
 
-### 📫 Mari Terhubung
+### 📫 Let's Connect
 
 <a href="https://linkedin.com/in/fatahilah">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:email-anda@domain.com">
+<a href="mailto:fatahilah.f10@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://fatahilah-mr.github.io/portfolio">
