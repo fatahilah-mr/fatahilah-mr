@@ -41,19 +41,6 @@
 
 ---
 
-### 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatahilah-mr&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatahilah-mr&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="195" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatahilah-mr&layout=compact&theme=radium&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
-</div>
-
----
-
 ### 📫 Mari Terhubung
 
 <a href="https://linkedin.com/in/fatahilah">
