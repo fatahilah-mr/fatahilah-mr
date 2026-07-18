@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 **AI & Automation** <br>
-<img src="https://img.shields.io/badge/AI_Prompt_Engineering-000000?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Prompt_Engineering-10A37F?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
 
 ---
